@@ -1,0 +1,4 @@
+/* minimal CSS to preserve look */
+body { margin:0; font-family: Arial, sans-serif; background:#0b0c10; color:white; }
+.top-banner img { max-width:45%; object-fit:contain; border-radius:10px; }
+.cta-btn { padding: 12px 28px; background:#00e0ff; color:black; border-radius:10px; text-decoration:none; display:inline-block; }
